@@ -6,13 +6,7 @@ Fala aí! Eu sou **Vitor** — estudante de Ciência da Computação, dev inicia
 
 - Estudando **Python** e migrando para **JavaScript**
 - Programando no **VSCode** com sangue nos olhos
-
-## Meus objetivos são claros:
-
-- Dominar programação
-- Trabalhar remotamente e viver fora do Brasil
-- Fundar meu próprio estúdio de games
-
+  
 ## Aqui no meu GitHub você vai encontrar:
 
 - Protótipos e ideias malucas
@@ -21,9 +15,39 @@ Fala aí! Eu sou **Vitor** — estudante de Ciência da Computação, dev inicia
 
 ---
 
-**Não tenho dinheiro, mas tenho visão.**  
-**Não tenho tudo ainda, mas estou construindo.**  
-
----
-
 > *"Start where you are. Use what you have. Do what you can."*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorBarrs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorBarrs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
+
+<p align="left">Sou um desenvolvedor em formação, começando tudo do zero, mas com metas grandes e bem definidas. Estou focado em aprender programação a fundo, dominar várias tecnologias e construir projetos que mostrem minha evolução. Meu objetivo é trabalhar remotamente, sair do Brasil e construir uma carreira sólida no exterior. Não tenho todos os recursos agora, mas tenho determinação, visão e coragem pra mudar minha vida com tecnologia.</p>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRhaTY5c29tcG0yMXFsNzNrdG8zaTZ0NmNzNDJqd2UxMnc0b2h4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorBarrs&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
