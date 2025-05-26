@@ -1,5 +1,5 @@
 # Mensagem de boas-vindas com o seu nome
-print("Bem-vindo à Copiadora do John Hirsch")
+print("Bem-vindo à Copiadora do Vitor S. Barros")
 
 
 # Função para escolher o serviço

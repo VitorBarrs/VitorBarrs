@@ -1,5 +1,5 @@
 # Mensagem de boas-vindas com nome e sobrenome
-print("Bem-vindo à Loja de Gelados do John Hirsch")
+print("Bem-vindo à Loja de Gelados do Vitor S. Barros")
 print("--------------------Cardápio--------------------")
 print("---| Tamanho | Cupuaçu (CP) | Açaí (AC) |---")
 print("   |    P    |   R$ 9.00    |  R$ 11.00 |")

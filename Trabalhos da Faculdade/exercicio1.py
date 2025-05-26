@@ -1,5 +1,5 @@
 # Mensagem de boas-vindas com meu nome e sobrenome
-print("Bem-vindo ao sistema de vendas! Desenvolvido por John Hirsch")
+print("Bem-vindo ao sistema de vendas! Desenvolvido por Vitor S. Barros")
 
 # Entrada de dados do usuário: valor unitário e quantidade
 valor_unitario = float(input("Digite o valor unitário do produto: "))

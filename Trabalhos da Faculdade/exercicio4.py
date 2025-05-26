@@ -8,7 +8,7 @@ def menu_principal():
 
     while True:
         print(
-            "Bem-vindo à Livraria do João Vitor S. Barros"
+            "Bem-vindo à Livraria do Vitor S. Barros"
         )  # Aqui eu dou as boas vindas.
 
         print("-" * 34)
