@@ -1,6 +1,6 @@
-# Bem-vindo ao meu universo digital! 🌍
+# Sejam todos Bem-Vindos! 🌍
 
-Fala aí! Eu sou **Vitor** — estudante de Ciência da Computação, dev iniciante. Estou construindo minha jornada do zero, com um objetivo claro: **morar fora, trabalhar com desenvolvimento e montar minha própria empresa**.
+Eu sou **Vitor** — estudante de Ciência da Computação, dev iniciante. Estou construindo minha jornada do zero, com um objetivo claro: **morar fora, trabalhar com desenvolvimento e montar minha própria empresa**.
 
 ## O que estou fazendo agora:
 
@@ -18,6 +18,7 @@ Fala aí! Eu sou **Vitor** — estudante de Ciência da Computação, dev inicia
 > *"Start where you are. Use what you have. Do what you can."*
 
 ###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vitorbarrs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vitorbarrs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -67,4 +68,4 @@ Fala aí! Eu sou **Vitor** — estudante de Ciência da Computação, dev inicia
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorBarrs&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> <br>
 </div>
 
-##
+###
