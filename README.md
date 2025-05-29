@@ -51,11 +51,15 @@ Fala aí! Eu sou **Vitor** — estudante de Ciência da Computação, dev inicia
 
 ##
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRhaTY5c29tcG0yMXFsNzNrdG8zaTZ0NmNzNDJqd2UxMnc0b2h4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  /> <br>
+<p align="left">Aqui você irá encontrar meus estudos e projetos da faculdade durante minha jornada acadêmica, estudos de linguagens e pequenos testes também.<br>As pastas estão perfeitamente organizadas e os estudos comentados, caso encontre algum que não esteja comentado comentado, aguarde... Estaremos (apenas eu) trabalhando nisso o mais rapido possivel.</p>
 
 ###
 
-<p align="left">Aqui você irá encontrar meus estudos e projetos da faculdade durante minha jornada acadêmica, estudos de linguagens e pequenos testes também.<br>   As pastas estão perfeitamente organizadas e os estudos comentados, caso encontre algum que não esteja comentado comentado, aguarde... Estaremos (apenas eu) trabalhando nisso o mais rapido possivel.</p> <br>
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRhaTY5c29tcG0yMXFsNzNrdG8zaTZ0NmNzNDJqd2UxMnc0b2h4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
+</div>
 
 ##
 
