@@ -36,10 +36,6 @@ Fala aí! Eu sou **Vitor** — estudante de Ciência da Computação, dev inicia
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-<div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRhaTY5c29tcG0yMXFsNzNrdG8zaTZ0NmNzNDJqd2UxMnc0b2h4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
-</div>
-
 ##
 
 <div align="center">
