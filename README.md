@@ -36,9 +36,6 @@ Fala aí! Eu sou **Vitor** — estudante de Ciência da Computação, dev inicia
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-  
-<p align="left">Sou um desenvolvedor em formação, começando tudo do zero, mas com metas grandes e bem definidas. Estou focado em aprender programação a fundo, dominar várias tecnologias e construir projetos que mostrem minha evolução. Meu objetivo é trabalhar remotamente, sair do Brasil e construir uma carreira sólida no exterior. Não tenho todos os recursos agora, mas tenho determinação, visão e coragem pra mudar minha vida com tecnologia.</p>
-
 <div align="center">
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRhaTY5c29tcG0yMXFsNzNrdG8zaTZ0NmNzNDJqd2UxMnc0b2h4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 </div>
