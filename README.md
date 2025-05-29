@@ -55,7 +55,7 @@ Fala aí! Eu sou **Vitor** — estudante de Ciência da Computação, dev inicia
 
 ###
 
-<p align="left">Aqui você irá encontrar meus estudos e projetos de estudos durante minha jornada acadêmica, estudos de linguagens e pequenos testes.<br>   As pastas estão perfeitamente organizadas e os estudos comentados.</p> <br>
+<p align="left">Aqui você irá encontrar meus estudos e projetos da faculdade durante minha jornada acadêmica, estudos de linguagens e pequenos testes também.<br>   As pastas estão perfeitamente organizadas e os estudos comentados, caso encontre algum que não esteja comentado comentado, aguarde... Estaremos (apenas eu) trabalhando nisso o mais rapido possivel.</p> <br>
 
 ##
 
