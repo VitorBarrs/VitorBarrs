@@ -1,4 +1,4 @@
-# Sejam todos Bem-Vindos! 🌍
+# Sejam Todos Bem-Vindos! 🌍
 
 Eu sou **Vitor** — estudante de Ciência da Computação, dev iniciante. Estou construindo minha jornada do zero, com um objetivo claro: **morar fora, trabalhar com desenvolvimento e montar minha própria empresa**.
 
