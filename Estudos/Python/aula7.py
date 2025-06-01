@@ -11,9 +11,9 @@ print("{} no primeiro bimestre, {} no segundo bimestre, {} no terceiro bimestre,
 # Versão melhorada!
 if nota < 6.0: # Aqui adiciono um if que nada mais é: Se(if) a média for abaixo de 6 ele esta reprovado.
     print("Aluno reprovado!") # Retorna a mensagem de reprovação.
-elif 6.0 <= nota <= 6.9: # Aqui adiciono um elif que seria um: Se caso(elif) não for abaixo de 6, e for igual 6 ou até 6.9 ele será provado por média.
+elif 6.0 <= nota <= 6.9: # Aqui adiciono um elif que seria um: Se caso(elif) não for abaixo de 6, e for igual a 6 ou até 6.9 ele será provado por média.
     print("Aluno aprovado por média!") # Retorna a mensagem de aprovação por média.
-else: # Aqui adiciono um else que seria: Se caso não for(else) abaixo de 6, nem igual ou até 6.9 e for maior, el será aprovado.
+else: # Aqui adiciono um else que seria: Se caso não for(else) abaixo de 6, nem igual ou até 6.9 e for maior, ele será aprovado.
     print("Aluno aprovado!") # Retorna a mensagem de aprovação.
 
 # Eu me empolguei nessa e atualizei!
